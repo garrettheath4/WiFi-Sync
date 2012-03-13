@@ -1,0 +1,4 @@
+This is an AppleScript script that can be used to automatically create an
+ad hoc WiFi network on a Mac that can be used to sync wireless devices.
+This script is designed to work for Mac OS 10.7.3 and is based on the script
+at <http://macscripter.net/viewtopic.php?pid=99243>.
